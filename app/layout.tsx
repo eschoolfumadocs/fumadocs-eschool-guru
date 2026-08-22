@@ -11,7 +11,7 @@ export const metadata = {
     template: "%s | eSchool Guru",
     default: "eSchool Guru",
   },
-  description: "Dokumentasi aplikasi eSchool Mobile untuk guru dan staff",
+  description: "Dokumentasi aplikasi eSchool Mobile untuk guru dan staf",
 };
 
 export default function Layout({ children }: LayoutProps<"/">) {
