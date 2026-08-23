@@ -2,6 +2,7 @@
   "pages": [
     "edit-profile",
     "change-password",
+    "darkmode",
     "holidays",
     "payroll"
   ]

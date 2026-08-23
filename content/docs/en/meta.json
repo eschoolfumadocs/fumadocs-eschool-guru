@@ -33,6 +33,7 @@
     "---PERSONAL SETTINGS---",
     "personal-settings/edit-profile",
     "personal-settings/change-password",
+    "personal-settings/darkmode",
     "personal-settings/holidays",
     "personal-settings/payroll",
     "---TROUBLESHOOTING---",
